@@ -1,0 +1,30 @@
+
+#contenedorProductos, .flex{
+    display: flex;
+    margin-top: 10px;
+}
+
+.flex p{
+    margin: 0 3px;
+}
+
+
+.producto{
+    width: 250px;
+    height: 300px;
+    border: 2px solid firebrick;
+    margin-left: 5px;
+    background-color: tan;
+}
+
+.producto img {
+    width: 220px;
+}
+
+#contenedorCarrito{
+    width: 600px;
+    min-height: 200px;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
